@@ -1,6 +1,6 @@
 # 💡 Contribuindo em um Projeto Open Source no GitHub
 
-## Um curso [Dio.me](https://www.dio.me/) em parceria com [Santander](santander.com.br)
+## Um curso [Dio.me](https://www.dio.me/) em parceria com [Santander](https://www.santander.com.br/)
 
 ## Conecte-se comigo:
 
